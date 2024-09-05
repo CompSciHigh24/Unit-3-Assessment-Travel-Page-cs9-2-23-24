@@ -1,0 +1,11 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+#help{
+  text-align: center;
+  
+}
+#text{
+  font-family: 'Arsenal', sans-serif;
+}
